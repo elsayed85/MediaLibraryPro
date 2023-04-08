@@ -17,12 +17,12 @@
     "require": {
         "php": "^7.4|^8.0",
         "ext-json": "*",
-        "illuminate/validation": "^7.25|^8.0",
+        "illuminate/validation": "^7.25|^10.0",
         "spatie/laravel-medialibrary": "^9.3.0",
         "symfony/mime": "^5.1"
     },
     "require-dev": {
-        "illuminate/support": "^7.25|^8.0",
+        "illuminate/support": "^7.25|^10.0",
         "livewire/livewire": "^2.3.3",
         "mockery/mockery": "^1.4",
         "orchestra/testbench": "^5.0|^6.0",
